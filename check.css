@@ -1,0 +1,8 @@
+.chuyenmau {
+    background-color: red; 
+    width: 200px; 
+    height: 100px;
+} 
+.chuyenmau:hover {
+    background-color: blue;
+}
